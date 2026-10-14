@@ -1,0 +1,12 @@
+{
+  "name": "CMRG DataCollect - Enterprise Field Survey Platform",
+  "description": "Standalone offline-first field survey PWA for Communication and Marketing Research Group with administrative questionnaire designer, enumerator access control, repeatable rosters, and PostgreSQL synchronization.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
